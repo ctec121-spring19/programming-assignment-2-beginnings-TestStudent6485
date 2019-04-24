@@ -38,7 +38,7 @@ def main():
     # location
     location = "SHL 125"
     # time
-
+    time = "MW 10:30A – 12:50P"
     # quarter
 
     # item - bonus points if you define item as a number
@@ -53,10 +53,11 @@ def main():
     print()
     print("Test Student's Output")
     # print the title - copy the code above
-    print(location)
+    print("\tTitle:\t\t", classTitle, sep="")
     # print the location
-
+    print("\tLocation:\t", location)
     # print the time
+    print("\tTime:\t\t", time)
 
     # print the quarter
 
