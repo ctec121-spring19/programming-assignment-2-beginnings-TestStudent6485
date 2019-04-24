@@ -36,7 +36,7 @@ def main():
 
     # create variables and set values for:
     # location
-
+    location = "SHL 125"
     # time
 
     # quarter
@@ -50,9 +50,10 @@ def main():
     
     # print section heading - replace <name> with your name - no angle brackets. 
     # Ex: Bill's Output
-    print("<name>'s Output")
+    print()
+    print("Test Student's Output")
     # print the title - copy the code above
-
+    print(location)
     # print the location
 
     # print the time
